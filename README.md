@@ -1,4 +1,4 @@
-# codevita-programs
+# Codevita-program
 # CodevitaRealTimePromblems
 
 ## 1. Prime Time Again
